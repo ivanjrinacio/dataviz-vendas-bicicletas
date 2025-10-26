@@ -73,7 +73,7 @@ Para comunicar os resultados, foram criados dois gráficos principais para respo
 **Gráfico 2: Preço Médio por Modelo de Bicicleta**
 *Este gráfico de barras compara o preço médio de cada modelo, facilitando a identificação dos produtos de maior e menor valor agregado.*
 
-<img src="preco_medio_modelo.png" alt="Preço Médio por Modelo">
+![Preço Médio por Modelo](preco_medio_modelo.png)
 
 ---
 
