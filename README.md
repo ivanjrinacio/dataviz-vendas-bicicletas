@@ -68,7 +68,7 @@ Para comunicar os resultados, foram criados dois gráficos principais para respo
 **Gráfico 1: Número de Vendas Mensais**
 *Este gráfico de linhas mostra a sazonalidade das vendas, destacando um pico claro no mês de abril.*
 
-<img src="numero_vendas_mensais.png" alt="Número de Vendas Mensais">
+![Número de Vendas Mensais](numero_vendas_mensais.png)
 
 **Gráfico 2: Preço Médio por Modelo de Bicicleta**
 *Este gráfico de barras compara o preço médio de cada modelo, facilitando a identificação dos produtos de maior e menor valor agregado.*
